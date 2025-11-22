@@ -1,0 +1,7 @@
+.gradle
+bin/*
+build.gradle
+gradle/*
+gradlew.bat
+settings.gradle
+sqlite-jdbc-3.40.1.0.jar
