@@ -17,5 +17,5 @@ application {
 }
 
 dependencies {
-    implementation 'org.xerial:sqlite-jdbc:3.40.1.0'
+    implementation 'org.mongodb:mongodb-driver-sync:4.11.1'
 }
